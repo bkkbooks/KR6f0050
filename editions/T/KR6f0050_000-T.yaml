@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6f0050/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 度一切諸佛境界智嚴經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T12/T12n0358.xml
+    old_id: T12n0358
+hash: sha256:c48114bcfd349a9144a9efc513bf0407546f79e921015cd9bea5805bb60be04c

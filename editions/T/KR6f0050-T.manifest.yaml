@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6f0050/T/v1
+canonical_location: https://kanripo.org/bkk/KR6f0050/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 度一切諸佛境界智嚴經
+  identifiers:
+    krp: KR6f0050
+    cbeta: T12n0358
+    cbeta_old_id: T12n0358
+    authorityid: CA0000799
+    json_key: T0358
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T12/T12n0358.xml
+    old_id: T12n0358
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6f0050_000-T.yaml, hash: 'sha256:c48114bcfd349a9144a9efc513bf0407546f79e921015cd9bea5805bb60be04c'}
+  - {seq: 1, filename: KR6f0050_001-T.yaml, hash: 'sha256:3d25eae57d1e47ac0c1cff6becac284f4897da985a60832a7dce96c1873dde3d'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6f0050_000-T.markers.yaml, hash: 'sha256:8a88978ccb9dcad2de8842e64c9148ac457659d063d45293b302950c7dfaee29'}
+  - {seq: 1, role: markers, filename: assets/KR6f0050_001-T.markers.yaml, hash: 'sha256:a6b1d53cf835fc37f91e1c410cd5d7ae40abe0c199a397b7c8e52deab87051af'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6f0050_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 5060
+  label: 度一切諸佛境界智嚴經
+  type: juan
+  level: 1
+hash: sha256:5224f80ee5dad4931cc6c923b218c71a51c6cf07ae1307e5a6f00e486e59d8fc

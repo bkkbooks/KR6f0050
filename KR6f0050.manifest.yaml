@@ -1,0 +1,51 @@
+canonical_identifier: bkk:krp/KR6f0050/v1
+canonical_location: https://kanripo.org/bkk/KR6f0050/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 度一切諸佛境界智嚴經
+  identifiers:
+    alt_id:
+    - T12n0358
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T12/T12n0358.xml
+    old_id: T12n0358
+  edition:
+    short: bkk
+editions:
+- short: 宋
+  label: 宋
+  source_xml_id: wit1
+- short: 元
+  label: 元
+  source_xml_id: wit2
+- short: 明
+  label: 明
+  source_xml_id: wit3
+- short: 宮
+  label: 宮
+  source_xml_id: wit4
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6f0050_000.yaml, hash: 'sha256:c48114bcfd349a9144a9efc513bf0407546f79e921015cd9bea5805bb60be04c'}
+  - {seq: 1, filename: KR6f0050_001.yaml, hash: 'sha256:6802b8dc604036bc09fe12aa3b1a29b35ba77d7a2689a1b5150a058b016bfe0a'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6f0050_001.markers.yaml, hash: 'sha256:34b41d860f5031543a66653bc0eee07ac5c26e1f0f7e20a415799926a97aa18d'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6f0050_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 5060
+  label: 度一切諸佛境界智嚴經
+  type: juan
+  level: 1
+hash: sha256:98d8177f62a587936e63b7f6b397e12013ad5ce1f87279e51b48d4063c884def
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
