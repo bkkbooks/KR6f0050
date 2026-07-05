@@ -31,9 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6f0050_000.yaml, hash: 'sha256:c48114bcfd349a9144a9efc513bf0407546f79e921015cd9bea5805bb60be04c'}
-  - {seq: 1, filename: KR6f0050_001.yaml, hash: 'sha256:6802b8dc604036bc09fe12aa3b1a29b35ba77d7a2689a1b5150a058b016bfe0a'}
+  - {seq: 1, filename: KR6f0050_001.yaml, hash: 'sha256:3d25eae57d1e47ac0c1cff6becac284f4897da985a60832a7dce96c1873dde3d'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6f0050_001.markers.yaml, hash: 'sha256:34b41d860f5031543a66653bc0eee07ac5c26e1f0f7e20a415799926a97aa18d'}
+  - {seq: 0, role: markers, filename: assets/KR6f0050_000.markers.yaml, hash: 'sha256:32da6af595ab10fc327159e55a2b0aeba6c77309d30a1c1b909d06abb2b91fad'}
+  - {seq: 1, role: markers, filename: assets/KR6f0050_001.markers.yaml, hash: 'sha256:ad5f0c573e0331fbf03c97edefa8b5ca62d5dc695497d204da842b3135777118'}
 table_of_contents:
 - ref:
     seq: 1
@@ -45,7 +46,4 @@ table_of_contents:
   label: 度一切諸佛境界智嚴經
   type: juan
   level: 1
-hash: sha256:98d8177f62a587936e63b7f6b397e12013ad5ce1f87279e51b48d4063c884def
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:350d36250863159f6a7e663699312c4aa46b38cd460c90ecde04eace7612bc7b
