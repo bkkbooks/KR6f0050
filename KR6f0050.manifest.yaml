@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6f0050/v1
 canonical_location: https://kanripo.org/bkk/KR6f0050/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 度一切諸佛境界智嚴經
   identifiers:
@@ -31,10 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6f0050_000.yaml, hash: 'sha256:c48114bcfd349a9144a9efc513bf0407546f79e921015cd9bea5805bb60be04c'}
-  - {seq: 1, filename: KR6f0050_001.yaml, hash: 'sha256:3d25eae57d1e47ac0c1cff6becac284f4897da985a60832a7dce96c1873dde3d'}
+  - {seq: 1, filename: KR6f0050_001.yaml, hash: 'sha256:6ff965faa7dd040cd33be584fe58994e770b6af5ec930c8e77c3840da27d4113'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6f0050_000.markers.yaml, hash: 'sha256:32da6af595ab10fc327159e55a2b0aeba6c77309d30a1c1b909d06abb2b91fad'}
-  - {seq: 1, role: markers, filename: assets/KR6f0050_001.markers.yaml, hash: 'sha256:ad5f0c573e0331fbf03c97edefa8b5ca62d5dc695497d204da842b3135777118'}
+  - {seq: 1, role: markers, filename: assets/KR6f0050_001.markers.yaml, hash: 'sha256:37847967c38879f10ff8707b316edb01f230023d33b9cce420963e640bc74d72'}
 table_of_contents:
 - ref:
     seq: 1
@@ -46,4 +46,7 @@ table_of_contents:
   label: 度一切諸佛境界智嚴經
   type: juan
   level: 1
-hash: sha256:350d36250863159f6a7e663699312c4aa46b38cd460c90ecde04eace7612bc7b
+hash: sha256:2f0ede385f5ed2dc45cf082b2f1297dc6ea288d3aaa249b84c46395de675a0b4
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
